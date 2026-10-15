@@ -1,11 +1,11 @@
 {
-    "version":  "0.4.0",
-    "notes":  "Rust+: оповещения поверх игры о карго, патрульном вертолёте (прилетел, сбит), чинуке, закрытых ящиках и смерти тиммейтов с квадратом карты. Вход через Steam и привязка сервера на новой странице Rust+.",
-    "pub_date":  "2026-10-15T16:19:00Z",
+    "version":  "0.4.1",
+    "notes":  "Rust+: таймеры. Время до ночи и рассвета, сколько карго, вертолёт и чинук уже на карте, когда были прошлые и примерно когда будут следующие (по прошлым появлениям на этом сервере), время с вайпа. Ctrl+Shift+T показывает таймеры поверх игры. Оповещение «Ночь через 2 минуты».",
+    "pub_date":  "2026-10-15T16:42:37Z",
     "platforms":  {
                       "windows-x86_64":  {
-                                             "url":  "https://raw.githubusercontent.com/iziziz333/Toolbox/v0.4.0/dl/ToolboxRust_0.4.0_x64-setup.exe",
-                                             "signature":  "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRRVl1WlRlaEphdzRXMTJ5SnZ3OXlneUhDQkhRaG9DUllReTlrR016YWs1Rkk1azg4UTQ5TWpXZWhKeDFGT25qSFYrK0pIR2JObENaV3RPdWJJOGljRFMyanBSMjZJM1FrPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkyMDgxMTQwCWZpbGU6VG9vbGJveCBSdXN0XzAuNC4wX3g2NC1zZXR1cC5leGUJdmVyc2lvbjowLjQuMApIcXlNam0vNGwyVWNRN2F5VWp4T0c0TTFValVOUGFUOUN2cG5TM0JFWlhoTWw0N2kxN280Mm95Nm8yMU1XbmU1MDZKeDNjWHp1MkVLZnB1WUZpblpDQT09Cg=="
+                                             "url":  "https://raw.githubusercontent.com/iziziz333/Toolbox/v0.4.1/dl/ToolboxRust_0.4.1_x64-setup.exe",
+                                             "signature":  "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRRVl1WlRlaEphdzlUb3NqS040eXY4eDBFTVdEVFV0VkdNQUZRUjFmdDFpL1MrdEpqWU1jbVFCVkpBWjl4ZTliWGZIZlJlRDdiK3hKQmpuaktsbUJyTzh6RlcveFpJL0FFPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkyMDgyNTU3CWZpbGU6VG9vbGJveCBSdXN0XzAuNC4xX3g2NC1zZXR1cC5leGUJdmVyc2lvbjowLjQuMQo0MGJZWWRMSTJqZmpWVE9jdjRIYm96azJtSXpnK21xSzc1YWZsSm5WeTNTdUNoR3M5c20zSkk3OHVyR2lTcVE1YXRNeFNUYndpaDltNjNSUVZib0hDQT09Cg=="
                                          }
                   }
 }
