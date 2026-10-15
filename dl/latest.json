@@ -1,11 +1,11 @@
 {
-    "version":  "0.3.3",
-    "notes":  "Профиль и пресет «Комбат» теперь по настройкам автора: без теней, травы и декора, дальность 1500, FXAA. Понятные подписи на карточках профилей. Второй сервер обновлений.",
-    "pub_date":  "2026-10-15T14:51:10Z",
+    "version":  "0.3.4",
+    "notes":  "Rust закрывается как по Alt+F4 и успевает сохранить свои настройки (язык, чувствительность и т.д.). Раньше игра закрывалась принудительно и изменения из её меню терялись.",
+    "pub_date":  "2026-10-15T15:55:33Z",
     "platforms":  {
                       "windows-x86_64":  {
-                                             "url":  "https://raw.githubusercontent.com/iziziz333/Toolbox/v0.3.3/dl/ToolboxRust_0.3.3_x64-setup.exe",
-                                             "signature":  "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRRVl1WlRlaEphdytZQTdSU1g1aUpsOWNoMGg0YStPaEpjOUI5YjY4T2d3WmFXMWp1aEVHZDg5TDdQRXhrWHI5dm9Vbzh0WCs3OENZWDlzWEM0L1VsMjdHL2lFVnNrYXdBPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkyMDc1ODY5CWZpbGU6VG9vbGJveCBSdXN0XzAuMy4zX3g2NC1zZXR1cC5leGUJdmVyc2lvbjowLjMuMwplQzV2ZE5nZU1Za1pXeElUSkl0TFlyZE43ZjExMlNOV21zYSt1S3czUFJ1TU55Q08xVWt0MWsxQkU4WjV2cEJBL09RbjVZbUNYSitLeWNMQjRGVXREZz09Cg=="
+                                             "url":  "https://raw.githubusercontent.com/iziziz333/Toolbox/v0.3.4/dl/ToolboxRust_0.3.4_x64-setup.exe",
+                                             "signature":  "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRRVl1WlRlaEphd3h4eEd3QWRvUE5LaVMvWVFhVUM3bWVnaTdMRlJMbzZmZElBeHhjemo3aG4vd0FpWkdiQXJkZTJOcUNkVytaYjIyVHdCVzVxOFdvTTJ1WHY0Q3VFcGdnPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkyMDc5NzMzCWZpbGU6VG9vbGJveCBSdXN0XzAuMy40X3g2NC1zZXR1cC5leGUJdmVyc2lvbjowLjMuNAorL1NtbmZPZGVOd0pXTW5KTlcwc2ZpYjlPMUxPcWpwaEtUUktRTE5hSVdFRjV3MlNWYU1yMHFMNTREUFFNbVZmOXZaclBNKy9kQ1lsYWZ0VlRZLzBEUT09Cg=="
                                          }
                   }
 }
