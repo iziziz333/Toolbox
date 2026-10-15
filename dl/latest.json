@@ -1,11 +1,11 @@
 {
-    "version":  "0.3.4",
-    "notes":  "Rust закрывается как по Alt+F4 и успевает сохранить свои настройки (язык, чувствительность и т.д.). Раньше игра закрывалась принудительно и изменения из её меню терялись.",
-    "pub_date":  "2026-10-15T15:55:33Z",
+    "version":  "0.4.0",
+    "notes":  "Rust+: оповещения поверх игры о карго, патрульном вертолёте (прилетел, сбит), чинуке, закрытых ящиках и смерти тиммейтов с квадратом карты. Вход через Steam и привязка сервера на новой странице Rust+.",
+    "pub_date":  "2026-10-15T16:19:00Z",
     "platforms":  {
                       "windows-x86_64":  {
-                                             "url":  "https://raw.githubusercontent.com/iziziz333/Toolbox/v0.3.4/dl/ToolboxRust_0.3.4_x64-setup.exe",
-                                             "signature":  "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRRVl1WlRlaEphd3h4eEd3QWRvUE5LaVMvWVFhVUM3bWVnaTdMRlJMbzZmZElBeHhjemo3aG4vd0FpWkdiQXJkZTJOcUNkVytaYjIyVHdCVzVxOFdvTTJ1WHY0Q3VFcGdnPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkyMDc5NzMzCWZpbGU6VG9vbGJveCBSdXN0XzAuMy40X3g2NC1zZXR1cC5leGUJdmVyc2lvbjowLjMuNAorL1NtbmZPZGVOd0pXTW5KTlcwc2ZpYjlPMUxPcWpwaEtUUktRTE5hSVdFRjV3MlNWYU1yMHFMNTREUFFNbVZmOXZaclBNKy9kQ1lsYWZ0VlRZLzBEUT09Cg=="
+                                             "url":  "https://raw.githubusercontent.com/iziziz333/Toolbox/v0.4.0/dl/ToolboxRust_0.4.0_x64-setup.exe",
+                                             "signature":  "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRRVl1WlRlaEphdzRXMTJ5SnZ3OXlneUhDQkhRaG9DUllReTlrR016YWs1Rkk1azg4UTQ5TWpXZWhKeDFGT25qSFYrK0pIR2JObENaV3RPdWJJOGljRFMyanBSMjZJM1FrPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkyMDgxMTQwCWZpbGU6VG9vbGJveCBSdXN0XzAuNC4wX3g2NC1zZXR1cC5leGUJdmVyc2lvbjowLjQuMApIcXlNam0vNGwyVWNRN2F5VWp4T0c0TTFValVOUGFUOUN2cG5TM0JFWlhoTWw0N2kxN280Mm95Nm8yMU1XbmU1MDZKeDNjWHp1MkVLZnB1WUZpblpDQT09Cg=="
                                          }
                   }
 }
