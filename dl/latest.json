@@ -4,7 +4,7 @@
     "pub_date":  "2026-10-15T11:46:54Z",
     "platforms":  {
                       "windows-x86_64":  {
-                                             "url":  "https://cdn.jsdelivr.net/gh/iziziz333/Toolbox@v0.3.2/dl/ToolboxRust_0.3.2_x64-setup.exe",
+                                             "url":  "https://raw.githubusercontent.com/iziziz333/Toolbox/v0.3.2/dl/ToolboxRust_0.3.2_x64-setup.exe",
                                              "signature":  "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRRVl1WlRlaEphd3hHSnlvdXZLemtRV3Jta0kyYnN0ZUtoM2dqM1REQm1zZURpc3VzR3UvUU83UnppVHNReXdwNUxUM1lXQncvMkEvUE9GQ0VCT2dlbE94TitteVVJVXdBPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkyMDY0ODEzCWZpbGU6VG9vbGJveCBSdXN0XzAuMy4yX3g2NC1zZXR1cC5leGUJdmVyc2lvbjowLjMuMgp4anB2Q0F2NHNyUGpsWjdOY3NFekdFNXdZQXk2Rk1KRmgvRWpHWjYvbFBYb2d5WStBNm9zM3V4ZnBHWTBPdlBueE4vRkhiekszT0VXT00yTURTT2lBUT09Cg=="
                                          }
                   }
