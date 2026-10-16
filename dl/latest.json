@@ -1,11 +1,11 @@
 {
-    "version":  "0.4.2",
-    "notes":  "Бинды: стандартные бинды игры скрыты по умолчанию и правильно распознаются (клавиши с несколькими командами, Ctrl). Показать их можно кнопкой фильтра.",
-    "pub_date":  "2026-10-16T17:06:43Z",
+    "version":  "0.4.3",
+    "notes":  "Диагностика: твик «Мощная видеокарта для Rust» не считается проблемой на ПК с одной видеокартой.",
+    "pub_date":  "2026-10-16T17:21:05Z",
     "platforms":  {
                       "windows-x86_64":  {
-                                             "url":  "https://raw.githubusercontent.com/iziziz333/Toolbox/v0.4.2/dl/ToolboxRust_0.4.2_x64-setup.exe",
-                                             "signature":  "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRRVl1WlRlaEphdzZ4cFlRNnM5bUJIRDlyQWdneWVJK3NRdHI1VlBsQ1k3RWdLUFJ2OXVyYlViVUFpQUREMUQzL0JvSG9TQmdkaDkwRTZlaHhFTUk0eExXWExiU0dYandBPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkyMTcwNDAzCWZpbGU6VG9vbGJveCBSdXN0XzAuNC4yX3g2NC1zZXR1cC5leGUJdmVyc2lvbjowLjQuMgpidUM3OWdra3BSZDBEcUxPb0lLR1oyNlFyYkg1OVI3NVFzMnNZR0J3NHlBeU1GaGdpWUtFeCtkUG41QUM3V2FGZ1lXam8xQlhTQ293eE5ZZjNibm1BQT09Cg=="
+                                             "url":  "https://raw.githubusercontent.com/iziziz333/Toolbox/v0.4.3/dl/ToolboxRust_0.4.3_x64-setup.exe",
+                                             "signature":  "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRRVl1WlRlaEphd3hpcVpMTEZpaDNuQnR0NWZ6RHZONUJQV1JMOXNVT3JZN3dKNStRd3RZbm5QeDhEaktrQUNnOE1VV29nNm8vaCs4MU5hRk9tZ1hBcTc1Nnh5YWREc2d3PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkyMTcxMjY1CWZpbGU6VG9vbGJveCBSdXN0XzAuNC4zX3g2NC1zZXR1cC5leGUJdmVyc2lvbjowLjQuMwozY1Q0NTIvbE5KWnZ5L3ZpdmpKZ2xQemJKS0d4SVV2T0VrS2NDQUZKckJKY1VDZUVJVnFXSzdvSngwRjhkTzFVZEIreDgzUjlsQXJNelJVdkh4ejJDQT09Cg=="
                                          }
                   }
 }
