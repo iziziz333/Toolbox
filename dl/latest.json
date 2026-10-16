@@ -1,11 +1,11 @@
 {
-    "version":  "0.5.4",
-    "notes":  "Каталог биндов: убраны дубль «Умная консоль», стандартный «Фонарик и лазер», «Бинокль» и «Бинокль на ПКМ»; «Бинокль на ALT» теперь называется «Приближение экрана». Тёмные полосы прокрутки в окнах.",
-    "pub_date":  "2026-10-16T23:45:01Z",
+    "version":  "0.5.5",
+    "notes":  "Твик «Только серверный хитмаркер»: выключает клиентский крестик, остаются только попадания, подтверждённые сервером. Каталог биндов почищен (см. 0.5.4).",
+    "pub_date":  "2026-10-16T23:52:13Z",
     "platforms":  {
                       "windows-x86_64":  {
-                                             "url":  "https://raw.githubusercontent.com/iziziz333/Toolbox/v0.5.4/dl/ToolboxRust_0.5.4_x64-setup.exe",
-                                             "signature":  "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRRVl1WlRlaEphd3oweU4ydXZyZ044aW9tM2lyN0hjU3JTUGttRFM0TFRkUy8xdkhtRTVJUytZakdEZmwxa3ZDL3RNVFZDZkxzRVRITGtIb2w1WmNKSnI3SGxLZXFoeVFJPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkyMTk0MzAwCWZpbGU6VG9vbGJveCBSdXN0XzAuNS40X3g2NC1zZXR1cC5leGUJdmVyc2lvbjowLjUuNAo5ZHF0MFVSN1E1aURnTHdqVlZCUjJYbW9hWlFhUUxBU0xuK0NjNG13NVNBbVhVWHBGOGRlb00zRmtqMlVqWFdTNmF2NXhFV3dhdlc3eUl3Z0d2dG9CQT09Cg=="
+                                             "url":  "https://raw.githubusercontent.com/iziziz333/Toolbox/v0.5.5/dl/ToolboxRust_0.5.5_x64-setup.exe",
+                                             "signature":  "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRRVl1WlRlaEphdzF4enpzVzh6ZURpMFVjRVBWUlBZSG1TWGs4Wm13VTlMZHlUYzhpeG0xdEMwY0gzUlhod3NkTGpZcm1qdFJJTVFVL3JQNlpzUjAwbmM0ODNNUk8vbVFzPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkyMTk0NzMzCWZpbGU6VG9vbGJveCBSdXN0XzAuNS41X3g2NC1zZXR1cC5leGUJdmVyc2lvbjowLjUuNQpXOWtVK2lId05FaFlFejdiY0dnbTJIV1lzdjh5WDdDc3BQczJYbDZvWTRLOW1XUWUybE0vVk5vL0MxNndSbndMYVZ2cHljRXIvelk4Ykxwb3RNSWZBUT09Cg=="
                                          }
                   }
 }
