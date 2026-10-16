@@ -1,11 +1,11 @@
 {
-    "version":  "0.5.3",
-    "notes":  "Растяг: переключатель теперь включает растяг для Rust — разрешение меняется только при запуске игры и возвращается после неё, рабочий стол не трогается. Если игра уже запущена, Toolbox спросит и предупредит, что лучше перезапустить Rust.",
-    "pub_date":  "2026-10-16T23:23:12Z",
+    "version":  "0.5.4",
+    "notes":  "Каталог биндов: убраны дубль «Умная консоль», стандартный «Фонарик и лазер», «Бинокль» и «Бинокль на ПКМ»; «Бинокль на ALT» теперь называется «Приближение экрана». Тёмные полосы прокрутки в окнах.",
+    "pub_date":  "2026-10-16T23:45:01Z",
     "platforms":  {
                       "windows-x86_64":  {
-                                             "url":  "https://raw.githubusercontent.com/iziziz333/Toolbox/v0.5.3/dl/ToolboxRust_0.5.3_x64-setup.exe",
-                                             "signature":  "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRRVl1WlRlaEphdzRDVWZBUE13M3NXc0YzZjRRczVBbVg5SkVoYUsxWWZlam1JZEgyczJOSWJIMjlBbENwcjE3SWp4SUNqT3MxTzVWS1ptaFgrTU1icERBVHhYVzJZQVFFPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkyMTkyOTkyCWZpbGU6VG9vbGJveCBSdXN0XzAuNS4zX3g2NC1zZXR1cC5leGUJdmVyc2lvbjowLjUuMwpCYTR6T1dYS1gzMFh2K3UwWkw3NnNUcWJPVEMwSjQyOHNxc1RzQUdBcGtONUZqUWt5TFZJUDRWMDJTTFlpb3ZaMTIvbk0vQ1g4SWJRVlJJcjdVUWVCZz09Cg=="
+                                             "url":  "https://raw.githubusercontent.com/iziziz333/Toolbox/v0.5.4/dl/ToolboxRust_0.5.4_x64-setup.exe",
+                                             "signature":  "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRRVl1WlRlaEphd3oweU4ydXZyZ044aW9tM2lyN0hjU3JTUGttRFM0TFRkUy8xdkhtRTVJUytZakdEZmwxa3ZDL3RNVFZDZkxzRVRITGtIb2w1WmNKSnI3SGxLZXFoeVFJPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkyMTk0MzAwCWZpbGU6VG9vbGJveCBSdXN0XzAuNS40X3g2NC1zZXR1cC5leGUJdmVyc2lvbjowLjUuNAo5ZHF0MFVSN1E1aURnTHdqVlZCUjJYbW9hWlFhUUxBU0xuK0NjNG13NVNBbVhVWHBGOGRlb00zRmtqMlVqWFdTNmF2NXhFV3dhdlc3eUl3Z0d2dG9CQT09Cg=="
                                          }
                   }
 }
