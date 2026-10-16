@@ -1,11 +1,11 @@
 {
-    "version":  "0.4.3",
-    "notes":  "Диагностика: твик «Мощная видеокарта для Rust» не считается проблемой на ПК с одной видеокартой.",
-    "pub_date":  "2026-10-16T17:21:05Z",
+    "version":  "0.5.0",
+    "notes":  "Слежка за игроками на странице Rust+: добавьте SteamID или ссылку, и Toolbox покажет поверх игры, когда игрок зашёл на сервер, перешёл на другой или вышел. Новый твик «Выключить гибернацию» освобождает на диске C: место размером почти с ОЗУ.",
+    "pub_date":  "2026-10-16T22:20:18Z",
     "platforms":  {
                       "windows-x86_64":  {
-                                             "url":  "https://raw.githubusercontent.com/iziziz333/Toolbox/v0.4.3/dl/ToolboxRust_0.4.3_x64-setup.exe",
-                                             "signature":  "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRRVl1WlRlaEphd3hpcVpMTEZpaDNuQnR0NWZ6RHZONUJQV1JMOXNVT3JZN3dKNStRd3RZbm5QeDhEaktrQUNnOE1VV29nNm8vaCs4MU5hRk9tZ1hBcTc1Nnh5YWREc2d3PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkyMTcxMjY1CWZpbGU6VG9vbGJveCBSdXN0XzAuNC4zX3g2NC1zZXR1cC5leGUJdmVyc2lvbjowLjQuMwozY1Q0NTIvbE5KWnZ5L3ZpdmpKZ2xQemJKS0d4SVV2T0VrS2NDQUZKckJKY1VDZUVJVnFXSzdvSngwRjhkTzFVZEIreDgzUjlsQXJNelJVdkh4ejJDQT09Cg=="
+                                             "url":  "https://raw.githubusercontent.com/iziziz333/Toolbox/v0.5.0/dl/ToolboxRust_0.5.0_x64-setup.exe",
+                                             "signature":  "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRRVl1WlRlaEphdzVKZG1vR052a3UyWVkvcWR5RFM1VnNMT0FldkIrODcyWHRkQktBQytldmtJNHZXS2h4LzBxVFV1UWZGOUgxUWRsNVN1bWcvVDhXWmZkbUxOZitvcnd3PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkyMTg5MjE4CWZpbGU6VG9vbGJveCBSdXN0XzAuNS4wX3g2NC1zZXR1cC5leGUJdmVyc2lvbjowLjUuMAp1VUN5bHNQVlhLRDgxWHhMTXI4Y0JvNFJCWEQ0MGtROWlQK3VnaDJ2YWIxbS9RVkQ4SWpLKzBRMmxUQm9lZXVBT0xsVHFEWEdLOGx6MXJaRHJHcytEUT09Cg=="
                                          }
                   }
 }
