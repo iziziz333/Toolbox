@@ -1,11 +1,11 @@
 {
-    "version":  "0.5.0",
-    "notes":  "Слежка за игроками на странице Rust+: добавьте SteamID или ссылку, и Toolbox покажет поверх игры, когда игрок зашёл на сервер, перешёл на другой или вышел. Новый твик «Выключить гибернацию» освобождает на диске C: место размером почти с ОЗУ.",
-    "pub_date":  "2026-10-16T22:20:18Z",
+    "version":  "0.5.1",
+    "notes":  "Меньше памяти: окно оповещений создаётся только когда используется Rust+ или слежка, а свёрнутый Toolbox просит браузер освободить память. Метка «на FPS не влияет» у твиков чистки Windows. Кнопка «Следить» в профиле игрока в Статистике.",
+    "pub_date":  "2026-10-16T22:59:12Z",
     "platforms":  {
                       "windows-x86_64":  {
-                                             "url":  "https://raw.githubusercontent.com/iziziz333/Toolbox/v0.5.0/dl/ToolboxRust_0.5.0_x64-setup.exe",
-                                             "signature":  "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRRVl1WlRlaEphdzVKZG1vR052a3UyWVkvcWR5RFM1VnNMT0FldkIrODcyWHRkQktBQytldmtJNHZXS2h4LzBxVFV1UWZGOUgxUWRsNVN1bWcvVDhXWmZkbUxOZitvcnd3PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkyMTg5MjE4CWZpbGU6VG9vbGJveCBSdXN0XzAuNS4wX3g2NC1zZXR1cC5leGUJdmVyc2lvbjowLjUuMAp1VUN5bHNQVlhLRDgxWHhMTXI4Y0JvNFJCWEQ0MGtROWlQK3VnaDJ2YWIxbS9RVkQ4SWpLKzBRMmxUQm9lZXVBT0xsVHFEWEdLOGx6MXJaRHJHcytEUT09Cg=="
+                                             "url":  "https://raw.githubusercontent.com/iziziz333/Toolbox/v0.5.1/dl/ToolboxRust_0.5.1_x64-setup.exe",
+                                             "signature":  "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRRVl1WlRlaEphdy9wdkVIaGtvRnhUTllUNnlSWjVNZXhIZi9zTE96NUM4NUZ5Mm50NGtpQkxzaVFaZjlxMExqNDE5cWQ5Z1RpYWkvZGlWVDg5cFVqUWlLL3FpdE1ZZ2c4PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkyMTkxNTUxCWZpbGU6VG9vbGJveCBSdXN0XzAuNS4xX3g2NC1zZXR1cC5leGUJdmVyc2lvbjowLjUuMQpwSlhjUGEzUmE3YUZkWjlrajdSeCtvU0djSnBGVTZYZnZBd3lrRS9SakJvNWVxbmtkbi9RNUc0TDNQWGJRc2QzVW05djFkOWErV0xoSW5XY3EvUlJEZz09Cg=="
                                          }
                   }
 }
