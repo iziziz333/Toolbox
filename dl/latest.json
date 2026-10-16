@@ -1,11 +1,11 @@
 {
-    "version":  "0.5.1",
-    "notes":  "Меньше памяти: окно оповещений создаётся только когда используется Rust+ или слежка, а свёрнутый Toolbox просит браузер освободить память. Метка «на FPS не влияет» у твиков чистки Windows. Кнопка «Следить» в профиле игрока в Статистике.",
-    "pub_date":  "2026-10-16T22:59:12Z",
+    "version":  "0.5.2",
+    "notes":  "Растяг включается за секунду после запуска Rust, до появления окна игры, поэтому сенса больше не скачет. Колокольчик сверху окна выключает все оповещения поверх игры: окно оповещений закрывается, Rust+ и слежка встают на паузу.",
+    "pub_date":  "2026-10-16T23:16:13Z",
     "platforms":  {
                       "windows-x86_64":  {
-                                             "url":  "https://raw.githubusercontent.com/iziziz333/Toolbox/v0.5.1/dl/ToolboxRust_0.5.1_x64-setup.exe",
-                                             "signature":  "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRRVl1WlRlaEphdy9wdkVIaGtvRnhUTllUNnlSWjVNZXhIZi9zTE96NUM4NUZ5Mm50NGtpQkxzaVFaZjlxMExqNDE5cWQ5Z1RpYWkvZGlWVDg5cFVqUWlLL3FpdE1ZZ2c4PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkyMTkxNTUxCWZpbGU6VG9vbGJveCBSdXN0XzAuNS4xX3g2NC1zZXR1cC5leGUJdmVyc2lvbjowLjUuMQpwSlhjUGEzUmE3YUZkWjlrajdSeCtvU0djSnBGVTZYZnZBd3lrRS9SakJvNWVxbmtkbi9RNUc0TDNQWGJRc2QzVW05djFkOWErV0xoSW5XY3EvUlJEZz09Cg=="
+                                             "url":  "https://raw.githubusercontent.com/iziziz333/Toolbox/v0.5.2/dl/ToolboxRust_0.5.2_x64-setup.exe",
+                                             "signature":  "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRRVl1WlRlaEphdzJMUFJIYTdjRDJ0cU05V1NNZVdzZVJOeVpVNUE1Y2RoU2RUVTI5anFmOG15TVdtRkVqUzJHYWYwM0ErQUFKbHMrdERpWkJzOUoyNUk1QnBUSW1ZbWdNPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkyMTkyNTczCWZpbGU6VG9vbGJveCBSdXN0XzAuNS4yX3g2NC1zZXR1cC5leGUJdmVyc2lvbjowLjUuMgpwc241UDZKM0d3Q3planlaRmlIcGx0YkFrRHhqVnhHZVFqZlhaelFWdzQ0ZkVOTXQ1SDZwMzRmQWU4N09rNFN0a1czQmNDMkhqclNDVVoybFZ0ZWtDQT09Cg=="
                                          }
                   }
 }
