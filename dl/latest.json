@@ -1,11 +1,11 @@
 {
-    "version":  "0.6.2",
-    "notes":  "Оценка инвентаря теперь работает: Steam отказывал запросам программы, теперь все запросы идут через шифрование Windows с обычными заголовками.",
-    "pub_date":  "2026-10-17T12:07:25Z",
+    "version":  "1.0.0",
+    "notes":  "Toolbox Rust 1.0. «Перед игрой» стал умным помощником: сам предлагает, что закрыть (браузеры, другие игры, лаунчеры, программы в фоне), что можно оставить (Discord, музыка, OBS), и запоминает ваши правила для каждой программы. Память и процессор считаются как в Диспетчере задач и обновляются вживую.",
+    "pub_date":  "2026-10-17T12:58:28Z",
     "platforms":  {
                       "windows-x86_64":  {
-                                             "url":  "https://raw.githubusercontent.com/iziziz333/Toolbox/v0.6.2/dl/ToolboxRust_0.6.2_x64-setup.exe",
-                                             "signature":  "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRRVl1WlRlaEphdzVCdUNyTk9CRHJ0V1hqWnBCQ3VCTTA3d0EyRW9RSmJoMXlGNEwxQkNRb1NOK2Y1eFVoblRTTERyUjVNdS94MVdoQWZUVWFWK1BnUDJ3MWxhZXhCZ0FnPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkyMjM4ODQ0CWZpbGU6VG9vbGJveCBSdXN0XzAuNi4yX3g2NC1zZXR1cC5leGUJdmVyc2lvbjowLjYuMgpoRlh6TTRGSFpvL2xnVDNSc3EreVkwRzZzRlBjdnVzcFlURVVxUU4xcHJnT29TYlZQWGRsTFBWVWZyUFNhUlR5RXJUMVdlRW4wQkJNZnFYTk4yZ3FBUT09Cg=="
+                                             "url":  "https://raw.githubusercontent.com/iziziz333/Toolbox/v1.0.0/dl/ToolboxRust_1.0.0_x64-setup.exe",
+                                             "signature":  "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRRVl1WlRlaEphdzhVSHlKb2hYakszakt6SGg3cDB2cDZKTVYzSTlldFlGNEVtb2k5dDUrdkR4MTYyNUZDMDJ1RG1zYkZBRUJWSlJrQXlVWG1lcG9WN0gyeDdQUFg3eEFVPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkyMjQxOTA3CWZpbGU6VG9vbGJveCBSdXN0XzEuMC4wX3g2NC1zZXR1cC5leGUJdmVyc2lvbjoxLjAuMApENmlSYVNzMzkxQm45Vk1XT2gwNGptWi9zbzBSTFZHdm8rMmtjckk2LzN1SnkzK3N3Vjc5aWxxd2hXcWo2V09IdkxCcGtRZGVPaENOMkNDK1k4Rm1DZz09Cg=="
                                          }
                   }
 }
