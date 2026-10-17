@@ -1,11 +1,11 @@
 {
-    "version":  "1.1.2",
-    "notes":  "Исправлено зависание при движении ползунков насыщенности и гаммы: обращения к драйверу видеокарты теперь идут по одному и не чаще нескольких раз в секунду. Растяг можно держать включённым и без Rust: галочка «Только пока запущен Rust».",
-    "pub_date":  "2026-10-17T15:35:34Z",
+    "version":  "1.1.3",
+    "notes":  "Быстрее открываются «Прицел», «Профили» и «Оптимизация»: проверки твиков без PowerShell, видеокарта определяется один раз, лишний запрос со страницы прицела убран.",
+    "pub_date":  "2026-10-17T16:08:44Z",
     "platforms":  {
                       "windows-x86_64":  {
-                                             "url":  "https://raw.githubusercontent.com/iziziz333/Toolbox/v1.1.2/dl/ToolboxRust_1.1.2_x64-setup.exe",
-                                             "signature":  "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRRVl1WlRlaEphdzFudVhIRC9tWFU3T2ZvTm5GQjFzSk9RRWhLOGRGWjhialdZUWFSVkxZVThvVXdkUzFNWGJEV2w1YUxPSkdLY3FCSVFBZHpObDlQMkN6TW5SVVBvTEE4PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkyMjUxMzMzCWZpbGU6VG9vbGJveCBSdXN0XzEuMS4yX3g2NC1zZXR1cC5leGUJdmVyc2lvbjoxLjEuMgpxNllINFp6UVh0VXI3STdNNXYzWVNXaWw5cFJDY2hNVmZIY0tNSWllSTdUTXdTWDRYVnVSU0pzYjZBYTUzWkNKWUNDbEc2bXI3UjJMVjRha2gvSDRCZz09Cg=="
+                                             "url":  "https://raw.githubusercontent.com/iziziz333/Toolbox/v1.1.3/dl/ToolboxRust_1.1.3_x64-setup.exe",
+                                             "signature":  "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRRVl1WlRlaEphdytjVjI1eGh6WHE5TTl0aDkrRm9nT2xCQklvN0FBZTQ3N3BKK1ZJVStDYmdSTEEyVVZ4TGF6empENlhoeUFxYTF1K0RHSjNBZjBsazVkNzNkRmp2ZkFVPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkyMjUzMzIzCWZpbGU6VG9vbGJveCBSdXN0XzEuMS4zX3g2NC1zZXR1cC5leGUJdmVyc2lvbjoxLjEuMwpOUTNMSGtHUXFqcFU2KzNOb0ZwM01NSElhcVBkNHJBOGg3b2JacVVkSm9wREQ1QjI0bjJPa3k2U3diYVBBS29oa0hOa0dpQ0xmYmZKM3RaQ0l3RW1BUT09Cg=="
                                          }
                   }
 }
