@@ -1,11 +1,11 @@
 {
-    "version":  "1.1.3",
-    "notes":  "Быстрее открываются «Прицел», «Профили» и «Оптимизация»: проверки твиков без PowerShell, видеокарта определяется один раз, лишний запрос со страницы прицела убран.",
-    "pub_date":  "2026-10-17T16:08:44Z",
+    "version":  "1.2.0",
+    "notes":  "Меню короче вдвое: 6 разделов вместо 13 вкладок. Оптимизация (Профили, Windows, Тест FPS), Игра (Твики, Графика, Бинды, Прицел), Rust+ (Оповещения, Слежка), Статистика, Инструменты (Экран и прочее, Коды камер, Бэкапы). Каждый раздел открывается на последней вкладке.",
+    "pub_date":  "2026-10-17T16:28:16Z",
     "platforms":  {
                       "windows-x86_64":  {
-                                             "url":  "https://raw.githubusercontent.com/iziziz333/Toolbox/v1.1.3/dl/ToolboxRust_1.1.3_x64-setup.exe",
-                                             "signature":  "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRRVl1WlRlaEphdytjVjI1eGh6WHE5TTl0aDkrRm9nT2xCQklvN0FBZTQ3N3BKK1ZJVStDYmdSTEEyVVZ4TGF6empENlhoeUFxYTF1K0RHSjNBZjBsazVkNzNkRmp2ZkFVPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkyMjUzMzIzCWZpbGU6VG9vbGJveCBSdXN0XzEuMS4zX3g2NC1zZXR1cC5leGUJdmVyc2lvbjoxLjEuMwpOUTNMSGtHUXFqcFU2KzNOb0ZwM01NSElhcVBkNHJBOGg3b2JacVVkSm9wREQ1QjI0bjJPa3k2U3diYVBBS29oa0hOa0dpQ0xmYmZKM3RaQ0l3RW1BUT09Cg=="
+                                             "url":  "https://raw.githubusercontent.com/iziziz333/Toolbox/v1.2.0/dl/ToolboxRust_1.2.0_x64-setup.exe",
+                                             "signature":  "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRRVl1WlRlaEphdzVGdmxzNEJnUVBCallNVDBFcUdQemVLLzVhNHJmNGxJcmtoY2tuYmtnTHJqWHBxdTNpYTlLaWVUbnVtY3oxRjVpNjlpa056cjFtNExRTEYzc1NnWHc0PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkyMjU0NDk1CWZpbGU6VG9vbGJveCBSdXN0XzEuMi4wX3g2NC1zZXR1cC5leGUJdmVyc2lvbjoxLjIuMApMUlowaS9MdnRiSjhUMnl1K1hscVpCakRnbzIvV045OE4yM1FZaXFrQmhPNFF6NDdGY3ZQUmYvYlA2ZEFKeFNKd2JXMTF5VEZGVXVTbXBodFNsamFCQT09Cg=="
                                          }
                   }
 }
