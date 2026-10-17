@@ -1,11 +1,11 @@
 {
-    "version":  "1.2.1",
-    "notes":  "Вкладки разделов заметнее: сплошная плашка, крупнее, выбранная вкладка залита цветом.",
-    "pub_date":  "2026-10-17T16:38:48Z",
+    "version":  "1.2.2",
+    "notes":  "«Перед игрой» показывает приложение Claude (около 1 ГБ памяти) в «Можно оставить» — его можно закрыть на время игры.",
+    "pub_date":  "2026-10-17T17:43:08Z",
     "platforms":  {
                       "windows-x86_64":  {
-                                             "url":  "https://raw.githubusercontent.com/iziziz333/Toolbox/v1.2.1/dl/ToolboxRust_1.2.1_x64-setup.exe",
-                                             "signature":  "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRRVl1WlRlaEphdytWRi9GUFlLd3d5YWxZbUprbEtTazVOMUdQdTJST2VWMGlFcGtvakdubnNyNUJBZTJxZGMzZk5oOC9BVHN5TVJiNm9OdkYrSmVSd3ZOM0hIaWtFRXdJPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkyMjU1MTI3CWZpbGU6VG9vbGJveCBSdXN0XzEuMi4xX3g2NC1zZXR1cC5leGUJdmVyc2lvbjoxLjIuMQpCeDRVbEYwKzRHeGpVN1hMaC9rNEowRDBmVTZtVjZwOW1ZaDJvZndUQWl0S25GbEtNQk9Fc1NiMWtWYmd0ZnBCMXo0c05nV3J4eHlrNW90bEpWeXdEQT09Cg=="
+                                             "url":  "https://raw.githubusercontent.com/iziziz333/Toolbox/v1.2.2/dl/ToolboxRust_1.2.2_x64-setup.exe",
+                                             "signature":  "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRRVl1WlRlaEphdy9yc2tTMUppYkxtTU96cTZlZU1paDB5L2ppRll4d0NPVitHTzdYajQ4RmpCQ2dDS1crd1gxSTlVbWkxVk1NMXZaeWJoSGtNb1NxT3cvNzhDazJCMUFRPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkyMjU4OTg4CWZpbGU6VG9vbGJveCBSdXN0XzEuMi4yX3g2NC1zZXR1cC5leGUJdmVyc2lvbjoxLjIuMgpINmRMVnZCWXdvcG1aTC8zZEtvUjVzamc2L20zaUFKUEhPM3Y4Vy9yM1lwSUZDWUNPOVl0dFR1SEV4MUxWVmNSWXlWMmNlUzBmSy80ejV4dmVVL3JBQT09Cg=="
                                          }
                   }
 }
