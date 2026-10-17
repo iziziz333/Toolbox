@@ -1,11 +1,11 @@
 {
-    "version":  "0.5.5",
-    "notes":  "Твик «Только серверный хитмаркер»: выключает клиентский крестик, остаются только попадания, подтверждённые сервером. Каталог биндов почищен (см. 0.5.4).",
-    "pub_date":  "2026-10-16T23:52:13Z",
+    "version":  "0.6.0",
+    "notes":  "«Перед игрой»: Toolbox показывает, какие программы съедают память и процессор, и закрывает выбранные (браузер сохранит вкладки). Спрашивает перед «Запустить Rust», если памяти мало. Новый твик «Высокий приоритет процессора для Rust».",
+    "pub_date":  "2026-10-17T11:12:05Z",
     "platforms":  {
                       "windows-x86_64":  {
-                                             "url":  "https://raw.githubusercontent.com/iziziz333/Toolbox/v0.5.5/dl/ToolboxRust_0.5.5_x64-setup.exe",
-                                             "signature":  "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRRVl1WlRlaEphdzF4enpzVzh6ZURpMFVjRVBWUlBZSG1TWGs4Wm13VTlMZHlUYzhpeG0xdEMwY0gzUlhod3NkTGpZcm1qdFJJTVFVL3JQNlpzUjAwbmM0ODNNUk8vbVFzPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkyMTk0NzMzCWZpbGU6VG9vbGJveCBSdXN0XzAuNS41X3g2NC1zZXR1cC5leGUJdmVyc2lvbjowLjUuNQpXOWtVK2lId05FaFlFejdiY0dnbTJIV1lzdjh5WDdDc3BQczJYbDZvWTRLOW1XUWUybE0vVk5vL0MxNndSbndMYVZ2cHljRXIvelk4Ykxwb3RNSWZBUT09Cg=="
+                                             "url":  "https://raw.githubusercontent.com/iziziz333/Toolbox/v0.6.0/dl/ToolboxRust_0.6.0_x64-setup.exe",
+                                             "signature":  "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRRVl1WlRlaEphdy9FdytEc012ZlB0c2FRMVRPOW1LT3l2SnpwMWtyTkJyYThNekpJRVE4ODlMYndPRVM3ZDljSG9pVjR1RUp6RnRZUFk3NFgrMDJGZElsK0owWTMxTmdVPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkyMjM1NTI1CWZpbGU6VG9vbGJveCBSdXN0XzAuNi4wX3g2NC1zZXR1cC5leGUJdmVyc2lvbjowLjYuMApJaFNud1F2QzdaRHhRNW1MZ0hqYjZGblBsNjY3NzlMc1k5aWs3TXRqWTljZnNtL0xCWUlkYW1SK2VqMkQ2Uis5QktCS2ZMYmtCQnYvbjJSalZER2xCdz09Cg=="
                                          }
                   }
 }
