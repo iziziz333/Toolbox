@@ -1,11 +1,11 @@
 {
-    "version":  "1.2.0",
-    "notes":  "Меню короче вдвое: 6 разделов вместо 13 вкладок. Оптимизация (Профили, Windows, Тест FPS), Игра (Твики, Графика, Бинды, Прицел), Rust+ (Оповещения, Слежка), Статистика, Инструменты (Экран и прочее, Коды камер, Бэкапы). Каждый раздел открывается на последней вкладке.",
-    "pub_date":  "2026-10-17T16:28:16Z",
+    "version":  "1.2.1",
+    "notes":  "Вкладки разделов заметнее: сплошная плашка, крупнее, выбранная вкладка залита цветом.",
+    "pub_date":  "2026-10-17T16:38:48Z",
     "platforms":  {
                       "windows-x86_64":  {
-                                             "url":  "https://raw.githubusercontent.com/iziziz333/Toolbox/v1.2.0/dl/ToolboxRust_1.2.0_x64-setup.exe",
-                                             "signature":  "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRRVl1WlRlaEphdzVGdmxzNEJnUVBCallNVDBFcUdQemVLLzVhNHJmNGxJcmtoY2tuYmtnTHJqWHBxdTNpYTlLaWVUbnVtY3oxRjVpNjlpa056cjFtNExRTEYzc1NnWHc0PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkyMjU0NDk1CWZpbGU6VG9vbGJveCBSdXN0XzEuMi4wX3g2NC1zZXR1cC5leGUJdmVyc2lvbjoxLjIuMApMUlowaS9MdnRiSjhUMnl1K1hscVpCakRnbzIvV045OE4yM1FZaXFrQmhPNFF6NDdGY3ZQUmYvYlA2ZEFKeFNKd2JXMTF5VEZGVXVTbXBodFNsamFCQT09Cg=="
+                                             "url":  "https://raw.githubusercontent.com/iziziz333/Toolbox/v1.2.1/dl/ToolboxRust_1.2.1_x64-setup.exe",
+                                             "signature":  "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRRVl1WlRlaEphdytWRi9GUFlLd3d5YWxZbUprbEtTazVOMUdQdTJST2VWMGlFcGtvakdubnNyNUJBZTJxZGMzZk5oOC9BVHN5TVJiNm9OdkYrSmVSd3ZOM0hIaWtFRXdJPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkyMjU1MTI3CWZpbGU6VG9vbGJveCBSdXN0XzEuMi4xX3g2NC1zZXR1cC5leGUJdmVyc2lvbjoxLjIuMQpCeDRVbEYwKzRHeGpVN1hMaC9rNEowRDBmVTZtVjZwOW1ZaDJvZndUQWl0S25GbEtNQk9Fc1NiMWtWYmd0ZnBCMXo0c05nV3J4eHlrNW90bEpWeXdEQT09Cg=="
                                          }
                   }
 }
