@@ -1,11 +1,11 @@
 {
-    "version":  "1.2.2",
-    "notes":  "«Перед игрой» показывает приложение Claude (около 1 ГБ памяти) в «Можно оставить» — его можно закрыть на время игры.",
-    "pub_date":  "2026-10-17T17:43:08Z",
+    "version":  "1.2.3",
+    "notes":  "Перед игрой: показываются все открытые программы, Google Drive больше не пропадает, ровный текст в списке",
+    "pub_date":  "2026-10-18T08:36:00Z",
     "platforms":  {
                       "windows-x86_64":  {
-                                             "url":  "https://raw.githubusercontent.com/iziziz333/Toolbox/v1.2.2/dl/ToolboxRust_1.2.2_x64-setup.exe",
-                                             "signature":  "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRRVl1WlRlaEphdy9yc2tTMUppYkxtTU96cTZlZU1paDB5L2ppRll4d0NPVitHTzdYajQ4RmpCQ2dDS1crd1gxSTlVbWkxVk1NMXZaeWJoSGtNb1NxT3cvNzhDazJCMUFRPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkyMjU4OTg4CWZpbGU6VG9vbGJveCBSdXN0XzEuMi4yX3g2NC1zZXR1cC5leGUJdmVyc2lvbjoxLjIuMgpINmRMVnZCWXdvcG1aTC8zZEtvUjVzamc2L20zaUFKUEhPM3Y4Vy9yM1lwSUZDWUNPOVl0dFR1SEV4MUxWVmNSWXlWMmNlUzBmSy80ejV4dmVVL3JBQT09Cg=="
+                                             "url":  "https://raw.githubusercontent.com/iziziz333/Toolbox/v1.2.3/dl/ToolboxRust_1.2.3_x64-setup.exe",
+                                             "signature":  "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRRVl1WlRlaEphd3hyeGkzQk9ocTFEZnhkQmE4UEhWL0dlRHZkd0dndFJXM1dnSnFPVTJWUkVva2FHVTZTbm5FUlZYeFUzcncvYjRTRFJxV3hoSlpJaHZJMndnSkxRSmdzPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkyMzEyNTUyCWZpbGU6VG9vbGJveCBSdXN0XzEuMi4zX3g2NC1zZXR1cC5leGUJdmVyc2lvbjoxLjIuMwpEekNveTBEeUdPUjlGTHEwM3piaFJiWFBtVkM1UUZQdGpFKzVWbVE4d09tbXFOVTgxQ1JLbmZjbUZjTGw2dXhDVHRwYk9jVm5XQkVERU0yOFN5N21CUT09Cg=="
                                          }
                   }
 }
