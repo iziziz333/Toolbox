@@ -1,11 +1,11 @@
 {
-    "version":  "1.2.3",
-    "notes":  "Перед игрой: показываются все открытые программы, Google Drive больше не пропадает, ровный текст в списке",
-    "pub_date":  "2026-10-18T08:36:00Z",
+    "version":  "1.2.4",
+    "notes":  "Перед игрой: показаны все программы (не только крупные), процент процессора у каждой, подписи для ASUS, VPN и uTorrent",
+    "pub_date":  "2026-10-18T09:13:34Z",
     "platforms":  {
                       "windows-x86_64":  {
-                                             "url":  "https://raw.githubusercontent.com/iziziz333/Toolbox/v1.2.3/dl/ToolboxRust_1.2.3_x64-setup.exe",
-                                             "signature":  "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRRVl1WlRlaEphd3hyeGkzQk9ocTFEZnhkQmE4UEhWL0dlRHZkd0dndFJXM1dnSnFPVTJWUkVva2FHVTZTbm5FUlZYeFUzcncvYjRTRFJxV3hoSlpJaHZJMndnSkxRSmdzPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkyMzEyNTUyCWZpbGU6VG9vbGJveCBSdXN0XzEuMi4zX3g2NC1zZXR1cC5leGUJdmVyc2lvbjoxLjIuMwpEekNveTBEeUdPUjlGTHEwM3piaFJiWFBtVkM1UUZQdGpFKzVWbVE4d09tbXFOVTgxQ1JLbmZjbUZjTGw2dXhDVHRwYk9jVm5XQkVERU0yOFN5N21CUT09Cg=="
+                                             "url":  "https://raw.githubusercontent.com/iziziz333/Toolbox/v1.2.4/dl/ToolboxRust_1.2.4_x64-setup.exe",
+                                             "signature":  "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRRVl1WlRlaEphdzdFek9qR0JSMHdVVC92UW9zWlkyN21DQlFaT1pKM0szQWRBTVdWNHhuc254amV4VG42bjQrV0N0b1VSRWZ1YS8wOFRYcXgvZHM2RUdlZmpmVWwvbHdNPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkyMzE0ODE0CWZpbGU6VG9vbGJveCBSdXN0XzEuMi40X3g2NC1zZXR1cC5leGUJdmVyc2lvbjoxLjIuNAprVGVseDVKdFBQS2VzVGVLeGE2YnArOXlzSjJaOVUyMUErY0lxaXFHcVQzR2ZNZUgwbU91b1RQeDlJS1dNSWRZc0lGWkdJdVFwbUk3WjZaeWVXcUhCUT09Cg=="
                                          }
                   }
 }
