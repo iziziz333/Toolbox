@@ -1,11 +1,11 @@
 {
-    "version":  "1.2.4",
-    "notes":  "Перед игрой: показаны все программы (не только крупные), процент процессора у каждой, подписи для ASUS, VPN и uTorrent",
-    "pub_date":  "2026-10-18T09:13:34Z",
+    "version":  "1.2.5",
+    "notes":  "Rust+: понятное сообщение, если сервер не передал адрес при привязке",
+    "pub_date":  "2026-11-09T21:56:21Z",
     "platforms":  {
                       "windows-x86_64":  {
-                                             "url":  "https://raw.githubusercontent.com/iziziz333/Toolbox/v1.2.4/dl/ToolboxRust_1.2.4_x64-setup.exe",
-                                             "signature":  "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRRVl1WlRlaEphdzdFek9qR0JSMHdVVC92UW9zWlkyN21DQlFaT1pKM0szQWRBTVdWNHhuc254amV4VG42bjQrV0N0b1VSRWZ1YS8wOFRYcXgvZHM2RUdlZmpmVWwvbHdNPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkyMzE0ODE0CWZpbGU6VG9vbGJveCBSdXN0XzEuMi40X3g2NC1zZXR1cC5leGUJdmVyc2lvbjoxLjIuNAprVGVseDVKdFBQS2VzVGVLeGE2YnArOXlzSjJaOVUyMUErY0lxaXFHcVQzR2ZNZUgwbU91b1RQeDlJS1dNSWRZc0lGWkdJdVFwbUk3WjZaeWVXcUhCUT09Cg=="
+                                             "url":  "https://raw.githubusercontent.com/iziziz333/Toolbox/v1.2.5/dl/ToolboxRust_1.2.5_x64-setup.exe",
+                                             "signature":  "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRRVl1WlRlaEphdzI0eG9Ea092dGVkWDZTZFJPZk5taUh5bDBLUjFOaFhwR2hPUkpWdE1XNE5ML3A4ZGtvdVhLb1FlaWc3KzhZOG9NOVVaVS9iRUFuc1krTmxqSHIxbHc0PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0MjYxMzgwCWZpbGU6VG9vbGJveCBSdXN0XzEuMi41X3g2NC1zZXR1cC5leGUJdmVyc2lvbjoxLjIuNQpmdXpiRUduWUtEYXBSQWRoOXpuQ3NWRUlVa3V5Z00vbWlpME1UQUVzTEh0U3NYV3pZMCt1aHU0VXh4T1ZKUzFwNTVnekdnUldjWU9OMHpITUhGSlFEQT09Cg=="
                                          }
                   }
 }
