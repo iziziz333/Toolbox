@@ -1,11 +1,11 @@
 {
-    "version":  "1.2.7",
-    "notes":  "Rust+: подключение через новый способ Facepunch (после обновления игры 5 ноября)",
-    "pub_date":  "2026-11-09T22:17:06Z",
+    "version":  "1.2.8",
+    "notes":  "Rust+: чистое окно входа через Steam, кнопка «Войти снова»",
+    "pub_date":  "2026-11-09T22:26:42Z",
     "platforms":  {
                       "windows-x86_64":  {
-                                             "url":  "https://raw.githubusercontent.com/iziziz333/Toolbox/v1.2.7/dl/ToolboxRust_1.2.7_x64-setup.exe",
-                                             "signature":  "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRRVl1WlRlaEphdzhQU2VDK2RvN1JPdVcyd08zQjFnL24wR3ZiKzgyOFFZSG9wRzlheElINVBkR20yT0c4SFI3alV2ZlQ1WDdudC8xS3FyM0hQNWdwUTB1dVJxRSsxekFzPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0MjYyNjI1CWZpbGU6VG9vbGJveCBSdXN0XzEuMi43X3g2NC1zZXR1cC5leGUJdmVyc2lvbjoxLjIuNwpCd3ltOEkySkt5MktoTk9ka3luYTZ6YWtGT1AzWUJLZFRPMG5yYytlV0hzV0trQWYzaXp1SEUxY2FnSEd5Z3BSb2xsU1FvV3Z5bXdiYnJaVllwUzREZz09Cg=="
+                                             "url":  "https://raw.githubusercontent.com/iziziz333/Toolbox/v1.2.8/dl/ToolboxRust_1.2.8_x64-setup.exe",
+                                             "signature":  "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRRVl1WlRlaEphdytlZ1RvSFVMSHZPaDlyTERrVmMrM2dVNVA4bXkxWGNqWFpXd3dZbmlOTUZtMERhME04dmFXT3AwQ3NrRy9aMTJwOEZQVVJFVnBJRkVjNm1rQmx0U3dzPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0MjYzMjAxCWZpbGU6VG9vbGJveCBSdXN0XzEuMi44X3g2NC1zZXR1cC5leGUJdmVyc2lvbjoxLjIuOApMOGhLcnBCd3N2MGdMcjBhekJQS2J3dlJ2SVVlbFh3TVRuZjVmZjBCcTA2YnhMVE83Q3NacnZ1K1RvR3EwMWo4L0FNR2grN0RJRTQxM29JSEh3WFZEZz09Cg=="
                                          }
                   }
 }
