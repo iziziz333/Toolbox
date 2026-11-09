@@ -1,11 +1,11 @@
 {
-    "version":  "1.2.6",
-    "notes":  "Rust+: выключатель показа поверх игры и отправка оповещений в чат команды",
-    "pub_date":  "2026-11-09T22:06:56Z",
+    "version":  "1.2.7",
+    "notes":  "Rust+: подключение через новый способ Facepunch (после обновления игры 5 ноября)",
+    "pub_date":  "2026-11-09T22:17:06Z",
     "platforms":  {
                       "windows-x86_64":  {
-                                             "url":  "https://raw.githubusercontent.com/iziziz333/Toolbox/v1.2.6/dl/ToolboxRust_1.2.6_x64-setup.exe",
-                                             "signature":  "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRRVl1WlRlaEphdzhlS3hjL2dVM2Q2QTZ4NGtoVm9uaC93dHpydEZtZHRHbnQyd2NsSzIzTzE4OGE3OE5RNUZQRzZkVDZ2cFhOMEVNd0JQdjBUZ25KcXNxejl1WTBmRndvPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0MjYyMDE1CWZpbGU6VG9vbGJveCBSdXN0XzEuMi42X3g2NC1zZXR1cC5leGUJdmVyc2lvbjoxLjIuNgpkTEVlNy92WWg2YmFGd1lEVnlQT0tpMEVaMGdYc0R3YzlTY3ZyUEpjM0tTN1ZMTjgzMmlZQ1FIc0VCcEZQUlEwUzFpaDB2NHlUdUNPZVQ4dzNCcFdEQT09Cg=="
+                                             "url":  "https://raw.githubusercontent.com/iziziz333/Toolbox/v1.2.7/dl/ToolboxRust_1.2.7_x64-setup.exe",
+                                             "signature":  "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRRVl1WlRlaEphdzhQU2VDK2RvN1JPdVcyd08zQjFnL24wR3ZiKzgyOFFZSG9wRzlheElINVBkR20yT0c4SFI3alV2ZlQ1WDdudC8xS3FyM0hQNWdwUTB1dVJxRSsxekFzPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0MjYyNjI1CWZpbGU6VG9vbGJveCBSdXN0XzEuMi43X3g2NC1zZXR1cC5leGUJdmVyc2lvbjoxLjIuNwpCd3ltOEkySkt5MktoTk9ka3luYTZ6YWtGT1AzWUJLZFRPMG5yYytlV0hzV0trQWYzaXp1SEUxY2FnSEd5Z3BSb2xsU1FvV3Z5bXdiYnJaVllwUzREZz09Cg=="
                                          }
                   }
 }
