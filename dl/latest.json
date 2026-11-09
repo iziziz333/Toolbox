@@ -1,11 +1,11 @@
 {
-    "version":  "1.2.8",
-    "notes":  "Rust+: чистое окно входа через Steam, кнопка «Войти снова»",
-    "pub_date":  "2026-11-09T22:26:42Z",
+    "version":  "1.2.9",
+    "notes":  "Rust+: оповещения о смерти снова работают, своя смерть отдельно, Ctrl+Shift+T скрывает таймеры",
+    "pub_date":  "2026-11-09T23:14:56Z",
     "platforms":  {
                       "windows-x86_64":  {
-                                             "url":  "https://raw.githubusercontent.com/iziziz333/Toolbox/v1.2.8/dl/ToolboxRust_1.2.8_x64-setup.exe",
-                                             "signature":  "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRRVl1WlRlaEphdytlZ1RvSFVMSHZPaDlyTERrVmMrM2dVNVA4bXkxWGNqWFpXd3dZbmlOTUZtMERhME04dmFXT3AwQ3NrRy9aMTJwOEZQVVJFVnBJRkVjNm1rQmx0U3dzPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0MjYzMjAxCWZpbGU6VG9vbGJveCBSdXN0XzEuMi44X3g2NC1zZXR1cC5leGUJdmVyc2lvbjoxLjIuOApMOGhLcnBCd3N2MGdMcjBhekJQS2J3dlJ2SVVlbFh3TVRuZjVmZjBCcTA2YnhMVE83Q3NacnZ1K1RvR3EwMWo4L0FNR2grN0RJRTQxM29JSEh3WFZEZz09Cg=="
+                                             "url":  "https://raw.githubusercontent.com/iziziz333/Toolbox/v1.2.9/dl/ToolboxRust_1.2.9_x64-setup.exe",
+                                             "signature":  "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRRVl1WlRlaEphdzRPMUswRFNrSGRwMUVJU2pDVkNJamFxemh3eTZKbDdodW85V0VRLyttVk92TkMraHZualBWTEtXVG8rSmYza0NzZWFSdEJWNkwySjhDdVQwUDUyY0FvPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0MjY2MDk2CWZpbGU6VG9vbGJveCBSdXN0XzEuMi45X3g2NC1zZXR1cC5leGUJdmVyc2lvbjoxLjIuOQpqM09Ob2c5Z2tYcnh2Syt2UStWNmVTblhSdFc4NzFuM3FWbnlXRFMyVWV2Uk4xOWlac3pWUVN0eEtxNnRiMWdrUitHOHR5bFZjUlczeC9IWVNVRk1CQT09Cg=="
                                          }
                   }
 }
